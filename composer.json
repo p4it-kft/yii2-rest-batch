@@ -23,10 +23,6 @@
     "php": ">=7.1.0",
     "yiisoft/yii2": "~2.0"
   },
-  "require-dev": {
-    "roave/security-advisories": "dev-master",
-    "phpunit/phpunit": "4.8.36"
-  },
   "autoload": {
     "psr-4": {
       "p4it\\rest\\batch\\": "src"
